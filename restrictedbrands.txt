@@ -244,9 +244,9 @@ BIBBITY
 Big Boy
 Big G
 Big Joe
-Big League Chew 
+Big League Chew 
 Big Mouth
-Big Red 
+Big Red 
 Bike Lane Pro
 Bill Lawrence Products
 Bill Owen-Cowboy Artist
@@ -861,7 +861,7 @@ Franklin Electronics
 Franklin Iron Works
 Fred & Friends
 Frederic Fekkai
-Freedent 
+Freedent 
 Fresh Wave
 Freshware
 Frette
@@ -1638,7 +1638,7 @@ Oral-B
 Oral-B
 Orange USA
 OrangeA
-Orbit 
+Orbit 
 Orbit Baby
 Orbit White
 Orca
@@ -2098,7 +2098,7 @@ Spark Cafe Cups
 Spark Cafe Cups – Reusable Coffee Pod
 Spark Cafe Cups-Reusable Coffee Pod
 Spaulding
-Spearmint 
+Spearmint 
 Speck
 Speck Cellphone Cases
 Spectrum
@@ -2460,7 +2460,7 @@ Wilson Sports
 Wilton
 Windmill-Parts.com
 Wine Enthusiast
-Winterfresh 
+Winterfresh 
 Wise Company
 Witamina C Monovitan
 Wolf
@@ -2805,7 +2805,7 @@ Buck
 Burt’s Bees
 Butterick
 Canary
-Cane & Austin
+Cane & Austin
 Chinkyboo
 Christian Dior
 ClicTime
@@ -3044,12 +3044,12 @@ Zoom Entertainments
 Zuru
 ADORATHERAPY
 Alaffia
-ANASTASIA BEVERLY HILLS
+ANASTASIA BEVERLY HILLS
 ARCHIPELAGO BOTANICALS
 AROMATHERAPY ASSOCIATES
 AVENE
 B TRUE BEAUTY
-BAXTER OF CALIFORNIA
+BAXTER OF CALIFORNIA
 BEAU GACHIS
 BEAUTYBLENDER
 BRIOGEO
@@ -3059,7 +3059,7 @@ COCO & CO
 CRACK HAIR
 DEBORAH LIPPMANN
 DERMATOLOGIC
-Disney Princess
+Disney Princess
 Dr. Scholl’s Health & Personal Care
 Dr. Scholls
 Durex
@@ -3068,7 +3068,7 @@ FIRST AID BEAUTY
 FRESH
 GEORGIE BEAUTY
 GIANNA ROSE ATELIER
-Gillette Venus
+Gillette Venus
 GLASHFOOD
 GLYTONE
 HEY HONEY
@@ -3084,17 +3084,17 @@ LIME CRIME
 Luxor Pro
 MALLY BEAUTY
 MARK JACOBS
-MATRIX - Biolage only
+MATRIX - Biolage only
 MUSTELLA
 NOODLE & BOO
 OPI
 Original Blends
 PALMETTO DERMA
 PAULA’S CHOICE
-PERFECT FORMULA
-PERRICONE MD
+PERFECT FORMULA
+PERRICONE MD
 PHILIP B.
-Philips Sonicare
+Philips Sonicare
 POOPOURRI
 R+CO
 REALHER
@@ -3117,9 +3117,9 @@ WHISH
 YE-BE
 ZENSATION
 ZOYA
-Adidas Originals
-Air Jordan
-Asics shoes
+Adidas Originals
+Air Jordan
+Asics shoes
 Bare Essentials
 BigMouth
 Buxom
@@ -3129,12 +3129,12 @@ deborah lipmann
 Docker pants
 Doritos
 Dunkin' Donuts
-Elizabeth Arden 
+Elizabeth Arden 
 Fragrances of Ireland
 Frito Lay
 ‎Fritos
-GE Light Bulbs
-Gerber Childrenswear, LLC
+GE Light Bulbs
+Gerber Childrenswear, LLC
 GoPro
 Hatchie Bottom
 Inis
@@ -3142,15 +3142,15 @@ Intel
 Joseph & Joseph
 Kong
 Lay's
-Lego Star Wars
+Lego Star Wars
 Moby
 Proactiv
 Proactiv Plus
-Rosetta Stone Language
+Rosetta Stone Language
 Ruffles
-Shark Vacuums
-Stanley Black and Decker
-Star Wars Action Figures
+Shark Vacuums
+Stanley Black and Decker
+Star Wars Action Figures
 Streamlight
 THEBALM COSMETICS
 T-Mobile
@@ -3437,13 +3437,13 @@ Finance
 Flinch
 Frogger
 Frogger II
-G.I. Joe: Cobra Strike
+G.I. Joe: Cobra Strike
 Gnip Gnop
 Hex
 Hey Pa! There's a Goat on the Roof
 Hollywood Squares
 Hungry Hungry Hippos
-James Bond 007
+James Bond 007
 Krypto
 Landslide
 Lord of the Rings: Journey to Rivendell
@@ -3469,7 +3469,7 @@ Pay Day
 Pictureka
 Pie Face, Pie Face Showdown, Pie Face Sky High & Pie Face Cannon
 Pit
-Pokémon Master Trainer
+Pokémon Master Trainer
 Pollyanna
 Probe
 Qubic
@@ -3488,7 +3488,7 @@ Star Wars: Jedi Arena
 Star Wars: Return of the Jedi: Ewok Adventure
 Star Wars: The Empire Strikes Back
 Stratego
-Super Cobra
+Super Cobra
 Taboo
 Tales of the Crystals
 The Game of Life
@@ -3503,14 +3503,14 @@ Transformers: Human Alliance
 Trivial Pursuit
 Trump: The Game
 Upwords
-Walt Disney's Sleeping Beauty
+Walt Disney's Sleeping Beauty
 Waterworks
 Wide World
 Words With Friends
 .S.P.A.C.E.
 Action Force
 Action Man
-Air Raiders
+Air Raiders
 Alternators
 Animated
 Ant-Man
@@ -3519,7 +3519,7 @@ Armada
 Army Ants
 Avengers: Age of Ultron
 Avengers: Infinity War
-Batman Beyond
+Batman Beyond
 Battle Beasts
 Battleship
 Beast Machines
@@ -3535,7 +3535,7 @@ Bull's-Eye Ball
 C.O.P.S. 'n Crooks
 Cabbage Patch Kids
 Captain America: Civil War
-Captain America: The First Avenger
+Captain America: The First Avenger
 Captain America: The Winter Soldier
 Charmkins
 Classic Collection
@@ -3557,13 +3557,13 @@ FurReal
 G.I. Joe
 G.I. Joe Adventure Team
 G.I. Joe Extreme
-G.I. Joe vs. Cobra
+G.I. Joe vs. Cobra
 G.I. Joe: A Real American Hero
 G.I. Joe: America's Movable Fighting Man
 G.I. Joe: Resolute
 G.I. Joe: Retaliation
 G.I. Joe: Sigma 6
-G.I. Joe: The Rise of Cobra
+G.I. Joe: The Rise of Cobra
 Gator Golf
 Generations
 Get in Shape Girl
@@ -3579,7 +3579,7 @@ Iron Man
 Iron Man 2
 Iron Man 3
 Iron Man: Armored Adventures
-James Bond Jr. 1990
+James Bond Jr. 1990
 Jem and the Holograms
 Jurassic Park
 Jurassic World
@@ -3591,30 +3591,30 @@ Lazer Tag
 Leggy dolls
 Lincoln Logs
 Lite-Brite
-Little Miss No Name
+Little Miss No Name
 Littlest Pet Shop
 Lock Stars
 Lost Kitties
 Luna Petunia
 M.A.S.K.
 Machine Wars
-Marvel Legends
-Marvel Super Hero Squad
-Marvel Transformers
-Marvel Universe
+Marvel Legends
+Marvel Super Hero Squad
+Marvel Transformers
+Marvel Universe
 Masterpiece Edition
 Maxie
 Mighty Muggs
-Monster Face
+Monster Face
 Moondreamers
 Mr. Potato Head
 Mrs. Potato Head
 My Little Pony
-My Little Pony Tales
+My Little Pony Tales
 NakNak
 Nerf
-Nerf Rebelle
-Olaf’s Frozen Adventure
+Nerf Rebelle
+Olaf’s Frozen Adventure
 Operation
 Play-Doh
 Pokémon
@@ -3625,15 +3625,15 @@ Record Breakers: World of Speed
 Reveal the Shield
 Revenge of the Fallen
 Robots in Disguise
-Rogue One: A Star Wars Story
-Secret Central
+Rogue One: A Star Wars Story
+Secret Central
 Shoezies
 Sindy
-Solo: A Star Wars Story
+Solo: A Star Wars Story
 Sound Bites
 Speed Stars
 Spider-Man
-Spider-Man 3
+Spider-Man 3
 Spider-Man: Homecoming
 Spirograph
 STAR Gate
@@ -3641,12 +3641,12 @@ Stretch Armstrong
 Super Robot Monkey Team Hyper Force Go!
 Super Soaker
 Telepods
-The Amazing Spider-Man
-The Amazing Spider-Man 2
+The Amazing Spider-Man
+The Amazing Spider-Man 2
 The Avengers
 The Incredible Hulk
-The New Batman Adventures
-The Spectacular Spider-Man
+The New Batman Adventures
+The Spectacular Spider-Man
 Thor
 Thor: Ragnarok
 Thor: The Dark World
@@ -3657,8 +3657,8 @@ Transformers
 Transformers: Generation 1
 Transformers: Generation 2
 Trolls
-Trolls Holiday
-Ultimate Spider-Man
+Trolls Holiday
+Ultimate Spider-Man
 Visionaries: Knights of the Magical Light
 Waddingtons
 Weebles
@@ -3956,7 +3956,7 @@ GAME
 Emson
 Rockland
 Acros (México)
-Affresh Washer Cleaners
+Affresh Washer Cleaners
 Amana
 Ariston
 Bauknecht
@@ -3966,8 +3966,8 @@ Diqua (China)
 Estate
 Gladiator GarageWorks
 Hefei Sanyo (China)[27]
-Hotpoint (Europe)
-Ignis [it]
+Hotpoint (Europe)
+Ignis [it]
 Indesit
 Inglis
 Jenn-Air
@@ -3976,7 +3976,7 @@ Maytag
 Polar
 Privileg
 Roper
-Royalstar [zh] (China)
+Royalstar [zh] (China)
 Stinol
 Whirlpool
 Big League Chew
@@ -4006,7 +4006,7 @@ Ethel M
 FLAVIA
 Fling
 goodnessKNOWS
-A Twix bar
+A Twix bar
 Marathon
 Masterfoods
 ADVANCE (Australia and New Zealand only)
@@ -4027,7 +4027,7 @@ Nutro Products
 Pedigree
 Optimum
 Pill Pockets
-Royal Canin
+Royal Canin
 Schmackos
 Sheba
 Spillers
@@ -4492,7 +4492,7 @@ CREATE A FOUNTAIN
 INSTA FOUNTAIN
 BELMONT GARDEN
 HydroHose
-Hover Clean Co.
+Hover Clean Co.
 HARVEST TRADING GROUP
 Serena Garden Co.
 HYDRO
@@ -4780,7 +4780,7 @@ Sleeping Partners
 Kovot
 Caskata
 Snoozebaby
-Seed & Sprout Co
+Seed & Sprout Co
 Found Object
 Kids Rule
 Brawny
@@ -4826,9 +4826,9 @@ PROLUX TRITAN
 STORM
 TERRAVAC
 2.0
-Heat Storm
-Storm Shell
-North Storm
+Heat Storm
+Storm Shell
+North Storm
 Heatstorm
 EarthLock
 Tensar Internatinal
@@ -4879,7 +4879,7 @@ Wakeman
 Sealy
 Tempur
 Tempur-Pedic
-Stearns & Foster
+Stearns & Foster
 Basset
 Formula 409
 Kitchen Bouquet
@@ -4888,7 +4888,7 @@ Lestoil
 Liquid-Plumr
 Pine-Sol
 Hidden Valley Ranch
-Fresh Step
+Fresh Step
 Brita
 Visions
 Baker’s Secret
@@ -4908,7 +4908,7 @@ KLEEGER
 Dupray
 Dwinguler
 Naturepedic
-Lullaby Earth
+Lullaby Earth
 HYDRO GRIP
 BEDFORD HOME
 CLASSIC CUISINE
@@ -5221,7 +5221,7 @@ Weizzer Toys
 CoolerZ
 Deck Impressions
 Catskill Craftsmen
-Catskill Craftsman
+Catskill Craftsman
 Catskill
 Polk Audio
 EULEVEN
@@ -5279,7 +5279,7 @@ CLEVRPLUS
 ADVANCEUP
 HOME AESTHETICS
 ALLCURE
-Remington Solar
+Remington Solar
 Sooriyan
 Sun Shock
 SolaSkimmer
@@ -5351,7 +5351,7 @@ Skedaddle
 Trikon
 SCOOTIEBUG
 Renogy
-Fire Pit Essentials
+Fire Pit Essentials
 Southwest Boulder & Stone
 Painting Pebbles
 Coastal Den
@@ -5532,7 +5532,7 @@ Dimplex
 ClassicFlame
 bon
 AIRCARE
-Essick Air
+Essick Air
 POWERSMITH
 GENESIS
 Evapo-Rust
@@ -5745,30 +5745,30 @@ Rookie Humans
 2k
 Activision
 Acure
-Air Hogs
+Air Hogs
 ALLMAX Nutrition
 Avalon Hill
-Avanti Linens
+Avanti Linens
 B.toys by Battat
 Banpresto
 Banzai
-Bare Essentials Cosmetics
-Bayer Advantage
+Bare Essentials Cosmetics
+Bayer Advantage
 BeardBrand
-Beats by Dre
+Beats by Dre
 Benefit
-BigMouth Inc
+BigMouth Inc
 Blinger
 Blue Poppy
 Boelter
-Boston Warehouse
+Boston Warehouse
 BSN
 BT21
-Buxom Buxom
+Buxom Buxom
 C.O Bigelow
 Calico
-Canon Cameras
-Canon Printer
+Canon Cameras
+Canon Printer
 Capri Blue
 Carharrt
 Carol Wright Gifts
@@ -5783,40 +5783,40 @@ Dark Souls
 DC Comics
 DERMA-E
 DIOR
-Disney Frozen
+Disney Frozen
 Douglas Laboratories
-Dr. Denese (Also known as SkinScience)
+Dr. Denese (Also known as SkinScience)
 Dr.Mercola
-Dreamworks Dragons
+Dreamworks Dragons
 Drybar
 Earth Mama
 Electronic Arts
 Estée Lauder
 Evlution
-Excedrin Sinus Headache
+Excedrin Sinus Headache
 Fat Brain Toys
 Feit Electric
 Fit Organic
 FOCO
-Frozen (Disney)
-Frozen (Movie)
+Frozen (Disney)
+Frozen (Movie)
 Galvanizeyourhome
 Garden of Life
-Gerber Baby Food
-Hamilton Beach
+Gerber Baby Food
+Hamilton Beach
 Hartz
 Hempz
 Hookless
 Huggies
-Hydro Flask
+Hydro Flask
 Imusa
-iRobot Roomba
-Irwin Naturals
+iRobot Roomba
+Irwin Naturals
 Jakks Pacific
 Jet-Puffed
 Jinx
 JLAB
-Jurassic World Toys
+Jurassic World Toys
 Kellogg’s
 KERASTASE
 Kiinde
@@ -5824,34 +5824,34 @@ Kindred Hearts Dolls
 Lamy
 Laura mercier
 Leaders Insolution
-Little Live Pets
-Little Tikes
+Little Live Pets
+Little Tikes
 Lux Blox
 Madison Reed
 Mammut
-Marvel – Avengers
-Marvel – Spider-Man
+Marvel – Avengers
+Marvel – Spider-Man
 Maxpedition
 McFarlane Toys
 Mecanno
-Mega Bloks
-Mega Construx
+Mega Bloks
+Mega Construx
 Melanie Mills
 Metagenic
 Milani
 Mixed Chicks
 Modarri
-Monster headphones
-Monster Jam
+Monster headphones
+Monster Jam
 MOOD Matcher
 Morphe
 MRM
 Murad
 Natural Factors
 Nature’s Way
-Nature’s Bounty
-New Era
-Nikon Cameras
+Nature’s Bounty
+New Era
+Nikon Cameras
 NOONI
 Norvell
 Old Skool
@@ -5860,12 +5860,12 @@ One
 Osmo
 Otc medication
 Pacifica
-Parker Pens
+Parker Pens
 Pepperidge
-Perfect Fitness
+Perfect Fitness
 Petstages
 Pfatlzgraff
-Philips Norelco
+Philips Norelco
 Philosophy
 Pikmi Pops
 Plantronics
@@ -5890,13 +5890,13 @@ SEGA
 SharkNinja
 Shea Moisture
 Shu Uemura
-Skip Hop Zoo
+Skip Hop Zoo
 Smashbox
-Snoopy Sno-Cone Machine
+Snoopy Sno-Cone Machine
 Sol De Janeiro
-Spark Cafe Cups
+Spark Cafe Cups
 Special K
-Spin Master Games
+Spin Master Games
 Spode
 Square Enix
 Squishmallow
@@ -5909,10 +5909,10 @@ The Good Stuff
 The Noble Collection
 THE ORDINARY
 The Republic of Tea
-The Pioneer Woman
-Theraflu Caplets
+The Pioneer Woman
+Theraflu Caplets
 Too Faced
-True Religion Brand Jeans
+True Religion Brand Jeans
 Ty Beanie Boos
 Update International
 USAopoly
@@ -5920,12 +5920,12 @@ VANVENE
 Vital Proteins
 Vitamin World
 Wallace
-Warner Brothers
-White Mountain Puzzles
+Warner Brothers
+White Mountain Puzzles
 Whos Most Likely to…
 Wildhorn Outfitters
-Wilson Sporting Goods
-Zwilling J.A
+Wilson Sporting Goods
+Zwilling J.A
 SafeRacks
 MonsterRax
 Hercke
@@ -5945,12 +5945,12 @@ Swagman
 Spira
 BETTER TRENDS
 Heat Storm
-Storm Shell
-North Storm
-California Air Tools
+Storm Shell
+North Storm
+California Air Tools
 SPRAYIT
-Stanley Commercial Hardware
-Stanley Jr
+Stanley Commercial Hardware
+Stanley Jr
 Cambridge Silversmiths
 Saunders
 Gorilla Carts
@@ -6032,10 +6032,10 @@ TAPCO
 4moms
 510 Design
 90° by Design Lab
-Bed Guardian by Sleep Philosophy
+Bed Guardian by Sleep Philosophy
 Bombay
 Echo Design
-Flexapedic by Sleep Philosophy
+Flexapedic by Sleep Philosophy
 Garden Party
 Hampton Hill
 Harbor House
@@ -6044,23 +6044,23 @@ INK+IVY
 INK+IVY Kids
 Intelligent Design
 LVNCO
-Madison Park Essentials
-Madison Park Pure
-Madison Park Signature
+Madison Park Essentials
+Madison Park Pure
+Madison Park Signature
 Martha Stewart
 Mi Zone
 Mi Zone Kids
 N Natori
 Peak Performance
-Premier Comfort
-Sleep Philosophy
-Smart Cool by Sleep Philosophy
+Premier Comfort
+Sleep Philosophy
+Smart Cool by Sleep Philosophy
 SunSmart
 Tao
-True North by Sleep Philosophy
+True North by Sleep Philosophy
 Urban Habitat
 Urban Habitat Kids
-Wonder Wool by Sleep Philosophy
+Wonder Wool by Sleep Philosophy
 Toledo Fine Locks
 TOLEDO PLATINUM
 TOLEDO HARDWARE
@@ -6227,7 +6227,7 @@ DEMDACO
 DevaCurl
 Dr. Elsey’s
 Dr.Teal’s
-Drive Medical
+Drive Medical
 EcoVessel
 Evergreen Flag
 Flip Zee
@@ -6241,14 +6241,14 @@ Glo Skin Beauty
 Graminex
 Hosley
 iscream
-It’s a 10 Haircare
+It’s a 10 Haircare
 JBL
 Josie Maran
 Kérastase
 Knorr
 La Roche-Posay
 LAMINET
-Little Debbie
+Little Debbie
 Living proof
 LUVENA
 Mama Mio
@@ -6266,17 +6266,17 @@ ORGANIC INDIA
 Organifi
 OSCAR DE LA RENTA
 Ossur
-Otc medication
+Otc medication
 Ouidad
 Paul Mitchell
 Pepcid
-Perfect Keto
+Perfect Keto
 Pevonia
 Pilot
-Play Visions
+Play Visions
 POC
 Poise
-Pur Cosmetics
+Pur Cosmetics
 Puracy
 Outward Hound
 Quercetti
@@ -6289,7 +6289,7 @@ Seventh Generation
 SEXYHAIR
 Simply Organic
 Smith Optics
-Snyder’s of Hanover
+Snyder’s of Hanover
 SportDOG
 Stella & Chewy
 Sun Bum
@@ -6299,7 +6299,7 @@ The Genius Brand
 Weiman
 Yonka
 Zhou Nutrition
-Zwilling J.A Henckels
+Zwilling J.A Henckels
 LEONLITE
 Pflueger
 Good Year
@@ -6772,10 +6772,10 @@ Able Life Comfortably Independent
 Wise
 3Plus
 AdnArt
-ALC Wireless
+ALC Wireless
 Biowave
 CreekKooler
-Energizer IOT
+Energizer IOT
 Eton
 Ezviz
 Fibaro
@@ -6790,7 +6790,7 @@ LicketySplit
 Lockly
 LumiCharge
 MB Quart
-Motorola Smart Safe
+Motorola Smart Safe
 NoStik
 Optoma
 ProSonicSmile
@@ -6818,7 +6818,7 @@ Brahma
 EV1
 No Boundaries
 NOBO
-Secret Treasures
+Secret Treasures
 And1
 Avia
 Sam's Choice
@@ -6841,7 +6841,7 @@ ColorPlace
 Douglas
 Earth Spirit
 EverStart
-Expert Grill
+Expert Grill
 Fire Side Gourmet
 Holiday Time
 Home Bake Value
@@ -6926,7 +6926,7 @@ Bed Bath & Beyond
 Above & Beyond
 Arctic Gear
 Bayport
-Bedding & Beyond
+Bedding & Beyond
 Beyond Any App of its Kind
 Beyond Any Registry of its Kind
 Beyond Any Site of its Kind
@@ -6942,7 +6942,7 @@ Equip Your Space
 Grade My Space
 Insola
 Just Grillin
-My Perfect Kitchen
+My Perfect Kitchen
 Pack & Hold
 Pure Beech
 Rock Your Registry
@@ -6963,7 +6963,7 @@ Bridge Street
 Dailyware
 Destination Summer
 Flave
-Fulton St.
+Fulton St.
 Happily Registered
 Haven
 Holiday Happy
@@ -7021,7 +7021,7 @@ LCN
 Milre
 Normbau
 QMI
-Republic Doors & Frames
+Republic Doors & Frames
 PegaSys
 Simons Voss Technologies
 Steelcraft
@@ -7227,9 +7227,13 @@ SHATEX
 V PROTEK
 WARM WORTH
 WELLCO
-Mainstay
-Décor Therapy
-InPlace
 Fill-Rite
+Artisana Organics
+Artisana
+MINA
+Mina's Morocco
 Ancient Harvest
 Rip van
+Mainstay
+Décor Therapy
+InPlace 
