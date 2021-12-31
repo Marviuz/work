@@ -7553,6 +7553,8 @@ Frontier Co-op
 PLANT BOSS
 Desert Pepper
 Dr. Natural
+Wicked Joe
+Wicked Leaf
 Mainstay
 Décor Therapy
 InPlace
@@ -7612,3 +7614,4 @@ DAVINCI GOURMET
 CRYSTAL GEYSER ALPINE SPRING WATER
 PUR GUM
 Tom & Co.
+Garden Décor
